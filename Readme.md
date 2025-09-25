@@ -138,7 +138,7 @@ pip install -r requirements.txt
 ---
 
 ## 📜 Licença
-<a src='https://github.com/tvlemes/localstack/blob/main/LICENSE'>MIT © Thiago Vilarinho Lemes</a>
+<a href='https://github.com/tvlemes/localstack/blob/main/LICENSE'>MIT © Thiago Vilarinho Lemes</a>
 
 
 ---
