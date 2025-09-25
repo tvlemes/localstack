@@ -11,7 +11,7 @@ Ideal para estudos, prototipação e testes sem custos na nuvem.
 ---
 
 [![Python](https://img.shields.io/badge/Python-3.11%2B-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/tvlemes/projeto-airflow-dbt/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/tvlemes/localstack/blob/main/LICENSE)
 [![Status](https://img.shields.io/badge/status-Desenvolvimento-red.svg)]()
 
 ## 📂 Estrutura do Projeto
@@ -138,8 +138,8 @@ pip install -r requirements.txt
 ---
 
 ## 📜 Licença
+<a src='https://github.com/tvlemes/localstack/blob/main/LICENSE'>MIT © Thiago Vilarinho Lemes</a>
 
-MIT © Thiago Vilarinho Lemes
 
 ---
 
