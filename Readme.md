@@ -12,7 +12,7 @@ Ideal para estudos, prototipação e testes sem custos na nuvem.
 
 [![Python](https://img.shields.io/badge/Python-3.11%2B-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/tvlemes/localstack/blob/main/LICENSE)
-[![Status](https://img.shields.io/badge/status-Desenvolvimento-red.svg)]()
+[![Status](https://img.shields.io/badge/status-Concluído-green.svg)]()
 
 ## 📂 Estrutura do Projeto
 
