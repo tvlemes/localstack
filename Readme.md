@@ -137,7 +137,7 @@ pip install -r requirements.txt
 
 ---
 
-📜 Licença
+## 📜 Licença
 
 MIT © Thiago Vilarinho Lemes
 
